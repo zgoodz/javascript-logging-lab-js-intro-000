@@ -1,0 +1,1 @@
+console.error("What the fuck am I doing with my life?")
